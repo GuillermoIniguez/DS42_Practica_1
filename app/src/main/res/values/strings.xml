@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Convertidor</string>
+
+
+
+    <string-array name="convert_options">
+        <item> °C to °F</item>
+        <item> °C to °K</item>
+        <item> °F to °C</item>
+        <item> °F to °K</item>
+        <item> °K to °C</item>
+        <item> °K to °F</item>
+    </string-array>
+
+</resources>
